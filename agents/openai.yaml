@@ -1,0 +1,7 @@
+interface:
+  display_name: "Scientific Figure Standards"
+  short_description: "Publication-grade plotting, figure captions, and traceable analysis from Excel or CSV data."
+  default_prompt: "Use $sci-figure to turn my tabular data into publication-grade figures with consistent styling, captions, and traceable outputs."
+
+policy:
+  allow_implicit_invocation: true
